@@ -1,0 +1,6 @@
+{
+  "name": "VoltCare",
+  "description": "Android Battery & Device Care suite with real-time telemetry, live charging speed graphs, fast charge mode, screen time wellness modes, and privilege fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
